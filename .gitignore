@@ -1,0 +1,10 @@
+*.exe
+*.dll
+*.log
+*.tmp
+build/
+dist/
+__pycache__/
+.venv/
+Thumbs.db
+.DS_Store
