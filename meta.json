@@ -1,0 +1,23 @@
+{
+  "repo": "adobe-lightroom-full",
+  "product": "Adobe Lightroom Full",
+  "kind": "design",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "design",
+  "topics": [
+    "adobe-lightroom",
+    "cloud-photo-library",
+    "preset-sync",
+    "mobile-desktop-sync",
+    "ai-masking",
+    "lightroomfull-setup-failed-fix",
+    "how-to-install-lightroomfull",
+    "lightroomfull-windows",
+    "lightroomfull-desktop-2026",
+    "lightroomfull-desktop-package"
+  ],
+  "site": "toolix.me"
+}
